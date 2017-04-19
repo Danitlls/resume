@@ -1,0 +1,41 @@
+body{
+  background-color: #d8d8d8;
+  margin: 0 20%;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  letter-spacing: 1.5px;
+}
+
+hr {
+  width: 90%;
+}
+
+img {
+  margin-left: 350px;
+}
+
+.skills h3, .work h3, .education h3 {
+  font-family: sans-serif;
+  font-variant: small-caps;
+}
+
+.skills {
+  color: #315691;
+}
+
+.work {
+  color: #0c2b5b;
+}
+
+.education {
+  color: #7c153e;
+}
+
+.subtitle {
+  font-style: italic;
+  font-weight: bolder;
+}
